@@ -9,5 +9,7 @@ class HelloWorld {
     int sum = first + second;
     System.out.println(first + " + " + second + " = "  + sum);
     System.out.println ("Hello, World! I am From DevOps Session");
+    System.out.println ("Hello, World! I am From DevOps Session");
+    System.out.println ("Hello, World! I am From DevOps Session");
   }
 }
